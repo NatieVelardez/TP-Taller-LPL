@@ -13,7 +13,7 @@ Este proyecto tiene como objetivo gestionar las carreras universitarias y sus ma
 ## Estructura del Proyecto
 La estructura del proyecto está organizada de la siguiente manera:
 
-tp/
+```tp/
 ├── data/
 │ └── data.json
 ├── src/
