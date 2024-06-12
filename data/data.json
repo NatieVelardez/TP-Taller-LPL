@@ -1,0 +1,120 @@
+{
+  "carreras": [
+    {
+      "id": 1,
+      "nombre": "Ingeniería Informática",
+      "grado": "De grado",
+      "universidad": "UTN",
+      "materias": [
+        {
+          "id": 1,
+          "nombre": "Derecho Informatico",
+          "cuatrimestral": 1,
+          "anio": 4,
+          "carreraId": 1
+        },
+        {
+          "id": 2,
+          "nombre": "Calculo Diferencial",
+          "cuatrimestral": 1,
+          "anio": 3,
+          "carreraId": 1
+        },
+        {
+          "id": 3,
+          "nombre": "Ingles Tecnico",
+          "cuatrimestral": 2,
+          "anio": 1,
+          "carreraId": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Licenciatura en Sistemas de Informacion",
+      "grado": "De grado",
+      "universidad": "UNPAZ",
+      "materias": [
+        {
+          "id": 4,
+          "nombre": "Ingeniaria de software",
+          "cuatrimestral": 1,
+          "anio": 3,
+          "carreraId": 2
+        },
+        {
+          "id": 5,
+          "nombre": "Introduccion a la programacion",
+          "cuatrimestral": 1,
+          "anio": 1,
+          "carreraId": 2
+        },
+        {
+          "id": 6,
+          "nombre": "Paradigmas",
+          "cuatrimestral": 2,
+          "anio": 3,
+          "carreraId": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Licenciatura en Ciencias de la Computacion",
+      "grado": "De grado",
+      "universidad": "Universidad de Bs As",
+      "materias": [
+        {
+          "id": 7,
+          "nombre": "Redes",
+          "cuatrimestral": 1,
+          "anio": 4,
+          "carreraId": 3
+        },
+        {
+          "id": 8,
+          "nombre": "Sistemas Orientados a Objetos",
+          "cuatrimestral": 2,
+          "anio": 2,
+          "carreraId": 3
+        },
+        {
+          "id": 9,
+          "nombre": "Base de Datos",
+          "cuatrimestral": 2,
+          "anio": 3,
+          "carreraId": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Analista de Sistemas",
+      "grado": "Titulo intermedio",
+      "universidad": "UGSM",
+      "materias": [
+        {
+          "id": 10,
+          "nombre": "Algebra",
+          "cuatrimestral": 1,
+          "anio": 1,
+          "carreraId": 4
+        },
+        {
+          "id": 11,
+          "nombre": "Sistemas Operativos",
+          "cuatrimestral": 1,
+          "anio": 1,
+          "carreraId": 4
+        },
+        {
+          "id": 12,
+          "nombre": "Lenguaje de programacion",
+          "cuatrimestral": 2,
+          "anio": 1,
+          "carreraId": 4
+        }
+      ]
+    }
+  ]
+}
